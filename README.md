@@ -14,10 +14,10 @@
 ---
 
 ## 🌟 Featured Projects
-- **[Nex-Migrate](https://nex-migrate.netlify.app/)** – Enterprise migration portal simulating Windows 11 readiness with device insights, ServiceNow integration, and admin/user dashboards. *(React.js, Node.js, MySQL, JWT, Tailwind)*  
-- **[Video on Demand](https://github.com/AnshpreetSingh32/Video_On_demand_Repository.git)** – Netflix-inspired Java Swing app with OTP login and MySQL-backed streaming simulation. *(Java, JDBC, Networking, MySQL)*  
-- **[MyContact](https://github.com/AnshpreetSingh32/MyContact_Repository.git)** – Console-based contact manager with CRUD and file handling. *(C++, OOPs, File Handling)*  
+- **[Nex-Migrate](https://nex-migrate.netlify.app/)** – Enterprise migration portal simulating Windows 11 readiness with device insights, ServiceNow integration, and admin/user dashboards. *(React.js, Node.js, MySQL, JWT, Tailwind)*   
 - **[What’s Cooking?](https://github.com/AnshpreetSingh32/whats-cooking)** – Recipe discovery app with ingredient-based search, filters, and random meal generator. *(React.js, Tailwind CSS, API integration)*  
+- **[Portfolio Website](https://anshpreet-singh.netlify.app/)** – Personal portfolio showcasing projects, skills, and experience with smooth animations, responsive design, and clean UI. *(Next.js, TypeScript, Tailwind CSS, Framer Motion, Headless UI)*
+
 
 ---
 
